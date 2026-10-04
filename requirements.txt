@@ -1,0 +1,6 @@
+flask>=3.0,<4
+gunicorn>=22.0
+rank-bm25==0.2.2
+langchain-openai>=0.3
+langgraph>=0.2
+python-dotenv>=1.0
